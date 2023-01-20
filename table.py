@@ -1,0 +1,1 @@
+nbr_eleve = int(input("Nombre d'lélèves"))
